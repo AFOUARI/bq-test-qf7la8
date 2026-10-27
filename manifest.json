@@ -1,6 +1,6 @@
 {
-    "name": "Bonjour Quebec AI",
-    "short_name": "Bonjour Quebec",
+    "name": "欢迎 Québec Français",
+    "short_name": "欢迎 Québec Français",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
